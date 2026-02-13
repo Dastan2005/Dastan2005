@@ -25,4 +25,6 @@ Currently learning:
 - Building production-ready applications
 
 I’m open to internship opportunities and collaborative learning.
-LinkedIn: linkedin.com/in/dastan-mustapaev
+LinkedIn: www.linkedin.com/in/dastan-mustapaev
+
+
